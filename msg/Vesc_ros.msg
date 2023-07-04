@@ -1,0 +1,15 @@
+float32 avgMotorCurrent
+float32 avgInputCurrent
+float32 dutyCycleNow
+float32 rpm
+float32 inpVoltage
+float32 ampHours
+float32 ampHoursCharged
+float32 wattHours
+float32 wattHoursCharged
+int64 tachometer
+int64 tachometerAbs
+float32 tempMosfet
+float32 tempMotor
+float32 pidPos
+uint8 id
